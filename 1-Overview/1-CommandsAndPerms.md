@@ -6,3 +6,5 @@
 * ``region.[RegionName].[Flag].allow`` will allow the flag for users no matter the flags of the region.
 
 * ``region.[RegionName].[Flag].disallow`` will disallow the flag for users no matter the flags of the region.
+
+* ``ultraregions.flags.bypass`` will bypass all player interact flags (EX. Chatting, Drop Item).
