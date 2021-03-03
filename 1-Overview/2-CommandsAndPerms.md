@@ -3,7 +3,8 @@
 * **/uregions** to open the Main GUI
 (Requires ``ultraregions.admin``)
 
-* **/urtp (world name)** to teleport to a 
+* **/urtp (world) (player)** to teleport to a world
+(Required ``ultraregions.urtp``)
 
 ### Permissions
 Ultra Regions has no bypass permissions and has a total new way of managing your flags. This system lets you create the permission for the flag. 
