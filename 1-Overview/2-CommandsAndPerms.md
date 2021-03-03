@@ -3,15 +3,15 @@
 * **/uregions** to open the Main GUI
 (Requires ``ultraregions.admin``)
 
-* **/ **
+* **/urtp (world name)** to teleport to a 
 
-* ``region.[RegionName].[Flag].allow`` will allow the flag for users no matter the flags of the region.
+### Permissions
+Ultra Regions has NO bypass permissions this is because of a new system that has been implemented in to Ultra Regions.
+When you set a flag in a region you can give it a permission this permission can be any thing you want.
 
-* ``region.[RegionName].[Flag].disallow`` will disallow the flag for users no matter the flags of the region.
+Than simply add your permission to the group you want it to have.
 
-* ``ultraregions.flags.bypass`` will bypass all player interact flags (EX. Chatting, Drop Item).
-
-### Placeholders
+#### Placeholders
 
 * ``%uregions_current_region_name%`` will show the name of the region a person is currently in.
 
