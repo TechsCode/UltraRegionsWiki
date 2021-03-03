@@ -1,9 +1,9 @@
 ## Commands and Permissions
 
-* **/uregions** to open the Main GUI
+* **/uregions** *to open the Main GUI*
 (Requires ``ultraregions.admin``)
 
-* **/urtp (world) (player)** to teleport to a world
+* **/urtp (world) (player)** *to teleport a player into a world*
 (Required ``ultraregions.urtp``)
 
 ### Permissions
@@ -14,5 +14,5 @@ When a flag has no permission it will count for everyone.
 
 #### Placeholders
 
-* ``%uregions_current_region_name%`` will show the name of the region a person is currently in.
+* ``%uregions_current_region_name%`` will show the name of the region a player is currently in.
 
