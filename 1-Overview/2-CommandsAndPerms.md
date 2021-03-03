@@ -6,10 +6,10 @@
 * **/urtp (world name)** to teleport to a 
 
 ### Permissions
-Ultra Regions has NO bypass permissions this is because of a new system that has been implemented in to Ultra Regions.
-When you set a flag in a region you can give it a permission this permission can be any thing you want.
+Ultra Regions has no bypass permissions.
+Ultra Regions has a total new way of managing your flags.
+This system let you create the permission for the flagg. What if a flag has no permission? When a flag has no permission your flag will count for everyone.
 
-Than simply add your permission to the group you want it to have.
 
 #### Placeholders
 
