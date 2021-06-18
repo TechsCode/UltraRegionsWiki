@@ -23,4 +23,5 @@ When a flag has no permission it will count for everyone.
 #### Placeholders
 
 * ``%uregions_current_region_name%`` Will show the name of the region a player is currently in.
+* ``%uregions_current_region_list%`` Will show the a list of all the regions the user is in.
 
