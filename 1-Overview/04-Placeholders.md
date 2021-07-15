@@ -5,4 +5,4 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
 * **``%uregions_current_region_name%``**
   Will show the name of the region a player is currently in.
 * **``%uregions_current_region_list%``**
-  Will show a list of all the regions.
+  Will show a list of regions.
